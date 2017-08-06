@@ -13,7 +13,7 @@ My research areas are in _Artificial Intelligence_ _(AI)_ including _automated p
 Automatically modeling and generating narratives is a challenge. Narratives are...
 - _bipartite_
 
-Narratologists frequently distinguish story (e.g., plot, _fabula_) from discourse (i.e., the communicative plan for telling a story). These two parts interact and are coordinated, yet are difficult modeled in an integrated way.
+Narratologists frequently distinguish story (e.g., plot, _fabula_) from discourse (i.e., the communicative plan for telling a story). These two parts interact and are coordinated, yet are difficult to model and generate in an integrated way.
 
 - _hierarchcial_
 
