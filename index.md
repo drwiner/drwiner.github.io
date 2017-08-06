@@ -8,7 +8,7 @@ I'm a PhD candidate in Computer Science at the University of Utah. I'm a member 
 
 ### My Work
 
-My research areas are in _Artificial Intelligence_ _(AI)_ including _automated planning_, _narrative intelligence_, _information extraction_, _natural language generation_, and _cinematics_. There is a wealth of information in narratives such as in text and films, and my work uses techniques from AI, as well as theories from narratology and cognitive science, to create tools for extracting, understanding, and generating narratives.
+My research areas are in _Artificial Intelligence_ _(AI)_ including _automated planning_, _narrative intelligence_, _computational linguistics_, and _cinematics_. There is a wealth of information in narratives such as in text and films, and my work uses techniques from AI, as well as theories from narratology and cognitive science, to create tools for extracting, understanding, and generating narratives.
 
 Automatically modeling and generating narratives is a challenge. Narratives are...
 - _bipartite_
